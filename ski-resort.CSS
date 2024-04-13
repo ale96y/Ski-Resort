@@ -1,0 +1,43 @@
+body {
+    background-color: #463d36;
+    font-family: sans-serif;
+}
+
+div {
+    background-color: white;
+    width: 600px;
+    border-radius: 15px;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span {
+    color: #a6192e;
+    font-weight: bold;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: unset;
+    background-color: #463d36;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 30px 40px;
+    display: inline-block;
+}
+
+h1 {
+   text-transform: uppercase;
+   color: #463d36;
+   font-weight: unset;
+   font-size: 28px;
+}
+
+p {
+   color: #463d36;
+   font-weight: bold;
+   font-size: large;
+}
